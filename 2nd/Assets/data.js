@@ -1,0 +1,2 @@
+static var difficulty : int;
+
